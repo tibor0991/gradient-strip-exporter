@@ -2,7 +2,7 @@
   "name": "com.tibor0991.gradient-strip-exporter",
   "version": "0.9.0",
   "displayName": "Gradient Strip Exporter",
-  "description": "A tool to export gradients as texture strips.",
+  "description": "A simple Unity tool that creates a texture strip out of a Gradient value.",
   "author": {
     "name": "Gianfranco Damato (tibor0991)",
     "email": "gianfranco.damato90@gmail.com",
